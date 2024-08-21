@@ -14,8 +14,6 @@ status-website:
   introTitle: "**Status** for American Headache Society"
   introMessage: American Headache Society WebMonitor
   navbar:
-    - title: Status
-      href: /
     - title: Website
       href: https://americanheadachesociety.org/
     - title: YouTube
