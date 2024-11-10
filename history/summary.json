@@ -4,18 +4,20 @@
     "url": "https://americanheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/americanheadachesociety.org.ico",
     "slug": "americanheadachesociety-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
+    "time": 603,
     "timeDay": 1065,
     "timeWeek": 843,
     "timeMonth": 595,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-10": 0
+    }
   },
   {
     "name": "americanmigrainefoundation.org",
