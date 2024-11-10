@@ -4,19 +4,19 @@
     "url": "https://americanheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/americanheadachesociety.org.ico",
     "slug": "americanheadachesociety-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 1065,
-    "timeWeek": 843,
-    "timeMonth": 595,
-    "timeYear": 634,
+    "time": 605,
+    "timeDay": 908,
+    "timeWeek": 832,
+    "timeMonth": 600,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-11-10": 0
+      "2024-11-10": 25
     }
   },
   {
