@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 1127,
-    "timeWeek": 845,
-    "timeMonth": 841,
-    "timeYear": 652,
+    "time": 621,
+    "timeDay": 1071,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2024-11-10": 25
     }
@@ -26,13 +26,13 @@
     "slug": "americanmigrainefoundation-org",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 430,
-    "timeDay": 389,
-    "timeWeek": 417,
+    "timeDay": 449,
+    "timeWeek": 408,
     "timeMonth": 442,
     "timeYear": 425,
     "dailyMinutesDown": {
