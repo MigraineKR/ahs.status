@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/americanheadachesociety.org.ico",
     "slug": "americanheadachesociety-org",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -30,23 +30,24 @@
     "url": "https://americanmigrainefoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/americanmigrainefoundation.org.ico",
     "slug": "americanmigrainefoundation-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.84%",
     "time": 437,
-    "timeDay": 372,
-    "timeWeek": 416,
-    "timeMonth": 531,
-    "timeYear": 412,
+    "timeDay": 315,
+    "timeWeek": 400,
+    "timeMonth": 523,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-09-30": 350,
       "2025-11-18": 180,
       "2026-02-03": 57,
       "2026-04-22": 67,
-      "2026-09-18": 163
+      "2026-09-18": 163,
+      "2026-09-21": 0
     }
   }
 ]
